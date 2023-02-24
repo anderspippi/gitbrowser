@@ -1,0 +1,4 @@
+# A few rather basic ignores. This is not a complex project.
+
+*.o
+*.so
